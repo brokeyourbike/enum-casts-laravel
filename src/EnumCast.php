@@ -10,6 +10,9 @@ namespace BrokeYourBike\EnumCasts;
 
 use Illuminate\Contracts\Database\Eloquent\CastsAttributes;
 
+/**
+ * @author Ivan Stasiuk <brokeyourbike@gmail.com>
+ */
 class EnumCast implements CastsAttributes
 {
     /**
