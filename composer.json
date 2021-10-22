@@ -30,5 +30,6 @@
         "bamarni/composer-bin-plugin": "^1.4",
         "phpunit/phpunit": "^9.5",
         "illuminate/database": "^8"
-    }
+    },
+    "version": "0.1.0"
 }
