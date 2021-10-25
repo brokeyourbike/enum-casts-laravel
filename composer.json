@@ -31,5 +31,5 @@
         "phpunit/phpunit": "^9.5",
         "illuminate/database": "^8"
     },
-    "version": "0.1.0"
+    "version": "0.1.1"
 }
