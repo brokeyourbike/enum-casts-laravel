@@ -17,7 +17,7 @@
         {
             "name": "Ivan Stasiuk",
             "email": "brokeyourbike@gmail.com",
-            "homepage": "https://github.com/brokeyourbike"
+            "homepage": "https://brokeyourbike.com"
         }
     ],
     "minimum-stability": "stable",
@@ -30,6 +30,11 @@
         "bamarni/composer-bin-plugin": "^1.4",
         "phpunit/phpunit": "^9.5",
         "illuminate/database": "^8"
+    },
+    "config": {
+        "allow-plugins": {
+            "bamarni/composer-bin-plugin": true
+        }
     },
     "version": "0.1.1"
 }
