@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.3](https://www.github.com/brokeyourbike/enum-casts-laravel/compare/v0.1.2...v0.1.3) (2023-05-20)
+
+
+### Miscellaneous Chores
+
+* button ([66da50f](https://www.github.com/brokeyourbike/enum-casts-laravel/commit/66da50f521f87ef071eea50843006f3e0370e473))
+
 ### [0.1.2](https://www.github.com/brokeyourbike/enum-casts-laravel/compare/v0.1.1...v0.1.2) (2023-05-14)
 
 
